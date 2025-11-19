@@ -1,7 +1,8 @@
 ---
 layout: single
-#title: "Curriculum Vitae (PDF)"
 permalink: /cv/
+header:
+  show_title: false
 ---
 
 <iframe 
