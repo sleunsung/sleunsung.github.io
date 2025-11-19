@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Bioinformatics & Computational Genomics"
 permalink: /
 classes: wide
