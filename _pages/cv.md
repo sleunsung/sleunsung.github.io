@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Curriculum Vitae (PDF)"
+#title: "Curriculum Vitae (PDF)"
 permalink: /cv/
 ---
 
