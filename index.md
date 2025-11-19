@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Bioinformatics & AI-driven Genomic Analysis Portfolio"
+title: "Bioinformatics & Computational Genomics"
 permalink: /
 classes: wide
 toc: false
 header:
-  overlay_image: /assets/dna.jpg
+  overlay_image: /assets/pdf/dna.jpg
   overlay_filter: 0.3
 ---
 
