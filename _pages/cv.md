@@ -2,7 +2,7 @@
 layout: single
 permalink: /cv/
 header:
-  show_title: false
+  show_title: True
 ---
 
 <iframe 
