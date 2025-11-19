@@ -325,3 +325,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# Navigation bar
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
