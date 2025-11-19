@@ -4,8 +4,6 @@ title: "Curriculum Vitae (PDF)"
 permalink: /cv/
 ---
 
-# Curriculum Vitae (PDF)
-
 <iframe 
     src="/assets/pdf/CV_SieunSung.pdf"
     width="100%" 
